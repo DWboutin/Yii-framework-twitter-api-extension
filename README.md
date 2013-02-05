@@ -1,4 +1,4 @@
-yii-twitter-OAuth
+Yii framework twitter api extension
 =================
 
 Simple Yii framework extension for the new Twitter api with the tmhOAuth php sdk
